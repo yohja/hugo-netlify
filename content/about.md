@@ -4,6 +4,7 @@ date: 2022-06-02T00:21:22.170Z
 draft: false
 author: YohJawa
 share: true
+comment: false
 ---
 I've been writing some other blog before, (all of them just died because I'm probably too lazy to maintain those thing). But now I'm here once more trying to write brand new blog and see if I could make it far enough.
 
