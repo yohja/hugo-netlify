@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "YohJawa's Blog"
 theme = "Niello"
 
+disqusShortname = 'yohanesjawa'
+
 [params]
 keywords = ""
 description = ""
