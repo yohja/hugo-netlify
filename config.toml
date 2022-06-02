@@ -19,5 +19,5 @@ sharethis = ""
 
     [[menu.niello]]
     name = "About"
-    url = "/pages/about"
+    url = "/about"
     weight = 2
